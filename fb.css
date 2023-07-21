@@ -1,0 +1,172 @@
+.header{
+    background: rgb(74, 74, 143);
+    width: 100%;
+    height: 100px;
+   
+   
+}
+body{
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+}
+.logo{
+    width: 50%;
+    padding-top: 20px;
+   padding-left: 40px;
+   float: left;
+
+
+}
+.login{
+    width: 50%;
+    float: left; 
+    float: right;
+    position: absolute;
+    padding-left: 400px;
+ 
+  
+
+}
+.logo-text{
+    color: #fff;
+    font-size: 40px;
+    font-weight: bolder;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+  
+}
+.login-email{
+    color: #fff;
+   
+   
+}
+.login-password{
+    color: #fff;
+    padding-left: 30px;
+}
+.submit-btn{
+    color: #fff;
+    background-color: rgb(80, 80, 210);
+   border-color: rgb(117, 89, 144);
+   
+   cursor: pointer;
+   
+}
+.submit{
+    padding-left: 18px;
+}
+
+.submit-btn:hover{
+    background-color: crimson;
+}
+.para1{
+    padding-left: 30px;
+    padding-top: 50px;
+    font-size: 17px;
+    font-weight: 500;
+ 
+}
+.main-body{
+    background: linear-gradient(white,#d3d8e8);
+    width: 100%;
+    height: 520px;
+}
+.left-section{
+    width: 50%;
+
+}
+.right-section{
+    width: 50%;
+   
+    
+   
+
+}
+
+.h1{
+    position: absolute;
+   top: 100px;
+   left: 66%;
+
+}
+.para2{
+    position: absolute;
+    top: 165px;
+    left: 66%;
+    
+
+}
+.forgot{
+    padding-left: 38px;
+}
+.email{
+  
+   
+}
+.form{
+  position: absolute;
+  top: 250px;
+  left: 970px;
+}
+.bday{
+    color: grey;
+   padding-top: 10px;
+}
+.last-para{
+    position: absolute;
+    left: 970px;
+    top: 458px;
+
+
+}
+.last-btn{
+    position: absolute;
+    top: 575px;
+    left: 979px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    background-color: rgb(47, 225, 47);
+    font-size: medium;
+    border-radius: 4px;
+}
+.footer{
+    width: 100%;
+    height:120px;
+    background-color: #fff;
+}
+.tag{
+    margin-left: 20px;
+    text-decoration: none;
+}
+.section1{
+    height: 60px;
+    width: 100%;
+   
+}
+.section2{
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+    width: 100%;
+ 
+    
+   
+   
+}
+.link{
+    padding: 10px;
+}
+.div{
+    margin-top: 10px;
+}
+.facebook{
+    margin-left: 20px;
+}
+.gender{
+    color: grey;
+    padding-top: 10px;
+}
